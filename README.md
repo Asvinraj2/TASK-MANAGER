@@ -19,7 +19,7 @@ A simple and visually-rich Task Manager built with React.js. It supports adding,
 ## 🛠️ Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/react-task-manager.git
-cd react-task-manager
+git clone https://github.com/your-username/task-manager.git
+cd task manager
 npm install
 npm run dev
